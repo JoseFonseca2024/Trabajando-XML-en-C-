@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\bin\Debug\Trabajando con XML.exe.config
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\bin\Debug\Trabajando con XML.exe
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\bin\Debug\Trabajando con XML.pdb
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando con XML.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando_con_XML.Form1.resources
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando_con_XML.Properties.Resources.resources
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando con XML.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando con XML.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando con XML.exe
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con XML\Trabajando con XML\obj\Debug\Trabajando con XML.pdb
