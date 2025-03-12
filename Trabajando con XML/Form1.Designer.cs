@@ -142,6 +142,7 @@
             this.dtgvLista.Name = "dtgvLista";
             this.dtgvLista.ReadOnly = true;
             this.dtgvLista.RowHeadersVisible = false;
+            this.dtgvLista.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dtgvLista.Size = new System.Drawing.Size(427, 167);
             this.dtgvLista.TabIndex = 1;
             // 
@@ -149,21 +150,25 @@
             // 
             this.ColumnNombre.HeaderText = "Nombre";
             this.ColumnNombre.Name = "ColumnNombre";
+            this.ColumnNombre.ReadOnly = true;
             // 
             // ColumnApellido
             // 
             this.ColumnApellido.HeaderText = "Apellido";
             this.ColumnApellido.Name = "ColumnApellido";
+            this.ColumnApellido.ReadOnly = true;
             // 
             // ColumnNumero
             // 
             this.ColumnNumero.HeaderText = "Numero";
             this.ColumnNumero.Name = "ColumnNumero";
+            this.ColumnNumero.ReadOnly = true;
             // 
             // ColumnTelefonia
             // 
             this.ColumnTelefonia.HeaderText = "Telefonia";
             this.ColumnTelefonia.Name = "ColumnTelefonia";
+            this.ColumnTelefonia.ReadOnly = true;
             // 
             // btnGuardar
             // 
@@ -233,6 +238,7 @@
             this.btnEliminar.TabIndex = 15;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.Eliminar);
             // 
             // Form1
             // 
@@ -259,6 +265,7 @@
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Click += new System.EventHandler(this.ClickenForm);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvLista)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

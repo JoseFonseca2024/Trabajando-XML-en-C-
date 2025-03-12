@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Contactos>
   <Contacto>
-    <Nombre>Jose </Nombre>
-    <Apellido>Fonseca</Apellido>
-    <Numero>2244-2447</Numero>
-    <Telefonia>Tigo</Telefonia>
-  </Contacto>
-  <Contacto>
     <Nombre>Alex</Nombre>
     <Apellido>Diaz</Apellido>
-    <Numero>2244-2447</Numero>
-    <Telefonia>Tigo</Telefonia>
+    <Numero>8972-3490</Numero>
+    <Telefonia>Claro</Telefonia>
+  </Contacto>
+  <Contacto>
+    <Nombre>Jose</Nombre>
+    <Apellido>Fonseca</Apellido>
+    <Numero>2233-2448</Numero>
+    <Telefonia>Claro</Telefonia>
   </Contacto>
   <Contacto>
     <Nombre>Yader</Nombre>
     <Apellido>Calero</Apellido>
-    <Numero>2233-4345</Numero>
+    <Numero>2334-5439</Numero>
     <Telefonia>Claro</Telefonia>
   </Contacto>
 </Contactos>

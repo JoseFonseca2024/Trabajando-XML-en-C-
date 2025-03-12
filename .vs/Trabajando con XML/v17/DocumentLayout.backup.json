@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con xml\\trabajando con xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\trabajando con xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|solutionrelative:trabajando con xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con xml\\trabajando con xml\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|solutionrelative:trabajando con xml\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con xml\\trabajando con xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|solutionrelative:trabajando con xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\trabajando con xml\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7D352E-15F1-4A5B-A09D-DBF4AA32CC42}|Trabajando con XML\\Trabajando con XML.csproj|solutionrelative:trabajando con xml\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "Trabajando con XML\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\Trabajando con XML\\Form1.cs",
               "RelativeToolTip": "Trabajando con XML\\Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDgAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwH4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T00:51:04.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Contacto.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\Trabajando con XML\\Contacto.cs",
               "RelativeDocumentMoniker": "Trabajando con XML\\Contacto.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con XML\\Trabajando con XML\\Form1.cs",
               "RelativeDocumentMoniker": "Trabajando con XML\\Form1.cs",

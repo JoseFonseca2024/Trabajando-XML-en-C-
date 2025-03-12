@@ -107,5 +107,24 @@ namespace Trabajando_con_XML
                 dtgvLista.Rows.Add(contacto.Nombre, contacto.Apellido, contacto.Numero, contacto.TipodeTelefonia.ToString());
             }
         }
+
+        private void Eliminar(object sender, EventArgs e)
+        {
+            if (dtgvLista.SelectedRows.Count > 0)
+            {
+                listacontactos.RemoveAt(dtgvLista.SelectedRows[0].Index);
+                dtgvLista.CurrentCell = null;
+                MostrarLista();
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un contacto para eliminar.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void ClickenForm(object sender, EventArgs e)
+        {
+            dtgvLista.CurrentCell = null;
+        }
     }
 }
